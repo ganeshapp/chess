@@ -500,7 +500,7 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
       }
     });
     $("#attribution").remove();
-    $(".ui-dialog-buttonpane").append('<span id="attribution">site by jay bulgin, sounds <a href="https://web.archive.org/web/20190130125125/https://creativecommons.org/licenses/by/3.0/">CC</a> by <a href="https://web.archive.org/web/20190130125125/http://www.freesound.org/people/SuGu14/packs/5082/">SuGu14</a> and <a href="https://web.archive.org/web/20190130125125/http://www.freesound.org/people/rhodesmas/sounds/322896/">rhodesmas</a></span>');
+    $(".ui-dialog-buttonpane").append('<span id="attribution"><a href="https://www.gapp.in">Gapp</a></span>');
   }
 
   function signup(e) {
