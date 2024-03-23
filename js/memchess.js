@@ -973,8 +973,8 @@ $("body").on("click", "#tabOpeningButton", function(e) {
   if (currentTab == 'Openings') return;
 
   currentTab = 'Openings';
-  $(".ui-layout-east").css("background", "linear-gradient(#BEFFBA, #5DFF53)");
-  $(".ui-layout-east").css("border", "1px solid #2A2");
+  $(".ui-layout-east").css("background", "linear-gradient(#207CB3, #207CB3)");
+  $(".ui-layout-east").css("border", "1px solid #207CB3");
   $("#tabHeader").text("Opening Chooser");
   $("#gameExplorer").hide();
   $("#commentsSection").hide();
