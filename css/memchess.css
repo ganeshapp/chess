@@ -21,14 +21,14 @@ p {	font-size: 18px; }
 a { outline: 0; }
 
 #header { 
-	background-color: #1caff6; 
+	background-color: #207CB3; 
 	height: 60px;
 	width: 101%;
 }
 #main { margin-top: 30px; }
 
 .ui-layout-center { background: #eee; }
-.ui-layout-east { background: linear-gradient(#BEFFBA, #5DFF53); border: 1px solid #2A2; }
+.ui-layout-east { background: linear-gradient(#207CB3, #207CB3); border: 1px solid #207CB3; }
 .ui-layout-pane { }
 .ui-layout-resizer { width: 5px !important;}
 .ui-layout-toggler { }
@@ -66,7 +66,7 @@ a { outline: 0; }
 
 .no-close .ui-dialog-titlebar-close { display: none; }
 .ui-widget { font-size: 16px; border: 1px solid #525252; }
-.ui-widget-header { background: #3AFF44 !important; }
+.ui-widget-header { background: #207CB3 !important; }
 .ui-dialog { border: 1px solid #000000 !important; }
 .ui-dialog .ui-dialog-title { width: 100% !important; }
 .ui-button:focus { outline: none; }
